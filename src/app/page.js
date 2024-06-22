@@ -168,4 +168,11 @@ step:
       ===============================================================
         it is very easy to do that by simply add not-found.js file in root. and all right.
 
+
+      =================================================================
+      HOW TO FETCH DATA ON SERVER COMPONANET AND CLIENT COMPONENTS
+      ======================================================================
+        the main aadvantage of server based componets is that most of the time you can fetch data in a server compoents .
+        it will be much more faster than client base component because there will be facibility like caching and like revaidating kind of concept then also be the security will be more so it is always adviseble the you can use the server side component as a data fetching .
+
 */
